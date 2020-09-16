@@ -1,2 +1,2 @@
 # board-springboot-vue
-board by using Springboot and Vue.js
+board using Springboot and Vue.js
